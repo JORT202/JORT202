@@ -43,5 +43,3 @@ Full-stack restaurant point-of-sale system with real-time order management and r
 **Tools:** Git, Claude Code, WordPress, WP Engine  
 
 ---
-
-[LinkedIn →](https://www.linkedin.com/in/jose-ortega-86b1153b8/)
