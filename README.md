@@ -1,5 +1,5 @@
 
-CIS graduate from Cal State San Marcos, currently working as a web developer. I build things at the intersection of data engineering, full-stack development, and AI-powered tooling.
+CIS graduate from Cal State San Marcos, currently working as a web developer. I build things at the intersection of data engineering, full-stack development, and AI-powered tooling. I also make drinks
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Ortega-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-ortega-86b1153b8/)
 
